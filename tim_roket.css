@@ -1,0 +1,95 @@
+body {
+   margin: 0;
+   padding: 0;
+   background-color: #dbdada; /* Color de fondo del header */
+   font-family: Arial;
+   font-weight: bold;
+  }
+
+
+header {
+   background-image: url("banner.jpeg"); /* Color de fondo del header */
+   background-size: cover;
+   height: 180px;
+   color: #ffffff; /* Color del texto en el header */
+   padding: 10px; /* Espaciado interno del header */
+   text-align: center; /* Alineación del texto en el centro */
+}
+
+
+ul {
+  list-style: none; /* Elimina los puntos de la lista */
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
+li a {
+  display: block;
+  padding: 10.8px;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  border-radius: 0px;
+}
+
+
+li a:hover {
+  background-color: #dbdada;
+  color:#000000
+}
+
+
+.menu {
+  color: white;
+  margin-left: 10px; /* Ajusta según sea necesario */
+}
+
+
+#logo {
+   margin-right: left; /* Empuja el logo hacia la izquierda */
+}
+#rectangulo {
+  background-color: #000000;
+  height: 40px; /* Ajusta según sea necesario */
+  width: 100%
+}
+
+
+h2 {
+   text-align: center;
+   font-size: 70p
+   x;
+}
+
+
+section {
+   text-align: center;
+   font-size: 20px;
+}
+
+
+h1{
+   text-align: center;
+   font-size: 30px;
+}
+
+
+#giovanni {
+   height: 500px }
+#jessie {
+   height: 500px;
+}
+#james {
+   height: 500px;
+}
+#meowth {
+   height: 500px;
+}
